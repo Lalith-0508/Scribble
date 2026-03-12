@@ -6,3 +6,5 @@ reportlab
 python-docx
 opencv-python
 numpy
+pillow
+streamlit
