@@ -15,10 +15,19 @@ Messy Notes Image → Clean Text + To-Do List
 ```
 scribble_to_digital/
 │
-├── app.py
-├── requirements.txt
-├── utils.py
-└── README.md
+├── app.py                  
+├── requirements.txt        
+├── .env                    # Gemini API key (not pushed to GitHub)
+├── README.md               
+│
+├── outputs/                
+│   ├── digital_notes.txt
+│   └── tasks.csv
+│
+└── utils/                  
+    ├── ocr_processor.py    
+    ├── ai_processor.py     
+    └── file_export.py      
 ```
 
 ## 📦 Installation
