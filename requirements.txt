@@ -1,0 +1,10 @@
+flask
+easyocr
+google-generativeai
+python-dotenv
+reportlab
+python-docx
+opencv-python
+numpy
+pillow
+streamlit
